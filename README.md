@@ -15,4 +15,4 @@ I rely on the [refactoring.guru](https://refactoring.guru/) and his book [Dive i
 
 ### Creational Design Patterns
 
-- #### [Factory Method](#) 📍
+- #### [Factory Method](./designPatterns/creationalPatterns/FactoryMethod/) 📍
